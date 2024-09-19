@@ -12,7 +12,7 @@
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<img src="https://www.svgrepo.com/svg/43101/java.svg" altcode="java" width="45" height="45"/>
+<img src="https://www.flaticon.com/free-icon/java_226777?term=java+logo&page=1&position=1&origin=tag&related_id=226777" altcode="java" width="45" height="45"/>
 <img src="https://www.svgrepo.com/svg/376350/spring.svg" altcode="spring-boot" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
