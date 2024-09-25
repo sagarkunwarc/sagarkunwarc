@@ -68,15 +68,13 @@
 <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
 <a href="#"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?logo=eclipse-ide&logoColor=white"></a>
 
-  <h2></h2>
+<h2></h2>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
-
 <a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST%20API-005571.svg?logo=json&logoColor=white"></a>
 <a href="#"><img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6.svg?logo=datadog&logoColor=white"></a>
-<a href="#"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000.svg?logo=red-hat-open-shift&logoColor=white"></a>
 <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?logo=apache-kafka&logoColor=white"></a>
 <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?logo=elasticsearch&logoColor=white"></a>
 <a href="#"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?logo=filezilla&logoColor=white"></a>
@@ -84,6 +82,7 @@
   
 <h2> Cloud: </h2>
 <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
+<a href="#"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000.svg?logo=red-hat-open-shift&logoColor=white"></a>
 <a href="#"><img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
 <a href="#"><img alt="PCF" src="https://img.shields.io/badge/Pivotal%20Cloud%20Foundry-0C9ED5.svg?logo=cloudfoundry&logoColor=white"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
