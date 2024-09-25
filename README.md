@@ -36,7 +36,8 @@
 
 <h2> BackEnd Frameworks: </h2>
 <p align="left">
-<img src="https://spring.io/img/spring.svg" alt="Spring Boot Logo" width="45" height="45">
+<a href="#"><img alt="Couchbase" src="https://img.shields.io/badge/Couchbase-EA2328.svg?logo=couchbase&logoColor=white"></a>
+<a href="#"><img alt="BigTable" src="https://img.shields.io/badge/BigTable-4285F4.svg?logo=google&logoColor=white"></a>
   
 <h2> Databases: </h2>
 <p align="left">
