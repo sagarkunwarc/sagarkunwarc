@@ -1,4 +1,4 @@
-## Hi there 👋 I am Sagar Kunwar
+## Hi there 👋 I am Sagar Kunwar a software developer.
 
 - 📫 How to reach me: kunwar.sagar@outlook.com
 - 😄 Pronouns: He/Him
