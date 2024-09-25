@@ -33,11 +33,15 @@
 <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"> </a>
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
 <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white"></a>
+<a href="#"><img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000.svg?logo=shadcnui&logoColor=white"></a>
+<a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
+<a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white"></a>
 
 <h2> BackEnd Frameworks: </h2>
 <p align="left">
 <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring-boot&logoColor=white"></a>
 <a href="#"><img alt="Spring MVC" src="https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?logo=spring&logoColor=white"></a>
+<a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C.svg?logo=hibernate&logoColor=white"></a>
   
 <h2> Databases: </h2>
 <p align="left">
@@ -46,6 +50,8 @@
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="Couchbase" src="https://img.shields.io/badge/Couchbase-EA2328.svg?logo=couchbase&logoColor=white"></a>
 <a href="#"><img alt="BigTable" src="https://img.shields.io/badge/BigTable-4285F4.svg?logo=google&logoColor=white"></a>
+<a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"></a>
+<a href="#"><img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8.svg?logo=snowflake&logoColor=white"></a>
 
 <h2> Developer Tools: </h2>
 <p align="left">
