@@ -13,6 +13,7 @@
 <h1>< 🚀 &nbsp;Some Tools I Have Used and Learned/h1>
 <p align="left">
 <h2> Langauages: </h2>
+ <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" altcode="Java Logo" width="45" height="45">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
