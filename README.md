@@ -30,21 +30,25 @@
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
 <a href="#"><img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000.svg?logo=shadcnui&logoColor=white"></a>
 <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
-
+<a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white"></a>
+<a href="#"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black"></a>
 
 <h2> Object Relational Mapping Tools: </h2>
 <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white"></a>
 <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C.svg?logo=hibernate&logoColor=white"></a>
-<a href="#"><img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F.svg?logo=spring&logoColor=white"></a>
 
-<h2> BackEnd Frameworks: </h2>
+<h2> BackEnd Frameworks & Library: </h2>
 <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring-boot&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
 <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"> </a>
 <a href="#"><img alt="Spring MVC" src="https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?logo=spring&logoColor=white"></a>
+<a href="#"><img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F.svg?logo=spring&logoColor=white"></a>
+
+<h2>Build Tools: </h2>
+<a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven&logoColor=white"></a>
+<a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=white"></a>
 
 <h2> Databases: </h2>
-
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"></a>
@@ -54,6 +58,9 @@
 <a href="#"><img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8.svg?logo=snowflake&logoColor=white"></a>
 <a href="#"><img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4.svg?logo=google-cloud&logoColor=white"></a>
 
+<h2> Testing Library: </h2>
+<a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
+
 <h2> Developer Tools: </h2>
 <p align="left">
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
@@ -62,7 +69,13 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visualstudiocode&logoColor=white"></a>
-
+<a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST%20API-005571.svg?logo=json&logoColor=white"></a>
+<a href="#"><img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6.svg?logo=datadog&logoColor=white"></a>
+<a href="#"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000.svg?logo=red-hat-open-shift&logoColor=white"></a>
+<a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?logo=apache-kafka&logoColor=white"></a>
+<a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?logo=elasticsearch&logoColor=white"></a>
+<a href="#"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?logo=filezilla&logoColor=white"></a>
+  
 <h2> Cloud: </h2>
 <p align="left">
 <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
