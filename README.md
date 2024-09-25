@@ -10,10 +10,10 @@
 - ⚡ Fun fact: Loves playing soccer and  Tennis
 
   
-<h1>< 🚀 &nbsp;Some Tools I Have Used and Learned/h1>
+<h1>🚀 &nbsp;Some Tools I Have Used and Learned</h1>
 <p align="left">
 <h2> Langauages: </h2>
- <p align="left">
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" altcode="Java Logo" width="45" height="45">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -21,6 +21,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 
 <h2> FrontEnd Frameworks and Tools: </h2>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt ="bootstrap" width="45" height="45" />
