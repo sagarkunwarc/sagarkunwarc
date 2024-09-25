@@ -10,6 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skunwarc&layout=donut&theme=onedark" alt="Top Langs" />
 </p>
 
+## 🤝 Let's Connect:
+
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sagarkunwar)
+
   
 <h1>🚀 Tools I Have Used and Learned</h1>
 <h2> 👨‍💻 Languages: </h2>
