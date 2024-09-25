@@ -36,8 +36,8 @@
 
 <h2> BackEnd Frameworks: </h2>
 <p align="left">
-<a href="#"><img alt="Couchbase" src="https://img.shields.io/badge/Couchbase-EA2328.svg?logo=couchbase&logoColor=white"></a>
-<a href="#"><img alt="BigTable" src="https://img.shields.io/badge/BigTable-4285F4.svg?logo=google&logoColor=white"></a>
+<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring-boot&logoColor=white"></a>
+<a href="#"><img alt="Spring MVC" src="https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?logo=spring&logoColor=white"></a>
   
 <h2> Databases: </h2>
 <p align="left">
