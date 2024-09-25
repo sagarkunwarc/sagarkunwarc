@@ -1,18 +1,13 @@
 ## Hi there 👋 I am Sagar Kunwar
 
-- 🔭 I’m currently working on Next JS
-- 🌱 I’m currently learning React, TypeScript , Node JS, NextJS 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: kunwar.sagar@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves playing soccer and  Tennis
 
   
-<h1>🚀 &nbsp;Some Tools I Have Used and Learned</h1>
+<h1>🚀 Tools I Have Used and Learned</h1>
 <p align="left">
-<h2> 👨‍💻 Langauages: </h2>
+<h2> 👨‍💻 Languages: </h2>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -24,7 +19,7 @@
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 
-<h2> FrontEnd Frameworks and Tools: </h2>
+<h2> FrontEnd Frameworks and Libraries: </h2>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vuedotjs&logoColor=white"></a>
