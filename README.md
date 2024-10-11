@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=sagarkunwarc&style=for-the-badge&color=green)
 
 - 📫 How to reach me: kunwar.sagar@outlook.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves playing soccer and  Tennis
 
  ### GitHub Stats 
