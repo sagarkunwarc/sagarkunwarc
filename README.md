@@ -14,7 +14,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkunwarc&layout=donut&theme=onedark" alt="Top Langs" />
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc&" alt="sagarkunwarc"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc&layout=compact" alt="sagarkunwarc" /></p>
 
 ## 🤝 Let's Connect:
 
