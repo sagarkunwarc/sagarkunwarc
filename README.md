@@ -8,8 +8,8 @@
 
  ### GitHub Stats 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkunwarc&layout=donut&theme=onedark" alt="Top Langs" width="32%" /> </p>
- <p > <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc&theme=onedark" alt="GitHub Contributions" width="40%" /> </p>
-  <p > <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarkunwarc&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" width="40%" /> </p>
+ <p > <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc&theme=onedark" alt="GitHub Contributions" width="32%" /> </p>
+  <p > <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarkunwarc&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" width="32%" /> </p>
 
 ## 🤝 Let's Connect:
 
