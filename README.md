@@ -8,7 +8,7 @@
 
  ### GitHub Stats 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkunwarc&layout=donut" alt="Top Langs"/> </p>
- <p> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc" alt="GitHub Contributions"/> </p>
+ <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc" alt="GitHub Contributions"/> </p>
   <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=sagarkunwarc&show_icons=true" alt="GitHub Stats"/> </p>
 
 ## 🤝 Let's Connect:
