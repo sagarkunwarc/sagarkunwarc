@@ -8,8 +8,8 @@
 
  ### GitHub Stats 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkunwarc&layout=donut&theme=onedark" alt="Top Langs"/> </p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkunwarc&layout=donut&theme=onedark" alt="Top Langs"/> </p>
 
   <p>
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=sagarkunwarc&show_icons=true&locale=en&layout=donut" alt="sagarkunwarc"/></p>
