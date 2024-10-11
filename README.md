@@ -9,9 +9,9 @@
  ### GitHub Stats 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkunwarc&layout=donut&theme=onedark" alt="Top Langs"/> </p>
 
- <p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=sagarkunwarc&show_icons=true&locale=en&layout=donut&theme=onedark" alt="github stats"/> </p>
-
  <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc&layout=donut&theme=onedark" alt="github contributions" /> </p>
+
+ <p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=sagarkunwarc&show_icons=true&locale=en&layout=donut&theme=onedark" alt="github stats"/> </p>
 
 ## 🤝 Let's Connect:
 
