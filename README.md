@@ -4,6 +4,7 @@
 
 - 📫 How to reach me: kunwar.sagar@outlook.com
 - ⚡ Fun fact: Loves playing soccer and  Tennis
+- Currently Learning : Go and Kotlin
 
  ### GitHub Stats 
 <p>
