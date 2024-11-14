@@ -11,8 +11,7 @@
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkunwarc&layout=donut"
-    alt="Top Langs"
-  />
+    alt="Top Langs" />
 </p>
 <p>
   <img
@@ -24,8 +23,7 @@
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=sagarkunwarc&show_icons=true"
-    alt="GitHub Stats"
-  />
+    alt="GitHub Stats" />
 </p>
   
 <h1>🚀 Tools I Have Used and Learned:</h1>
