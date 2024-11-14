@@ -6,17 +6,13 @@
 - ⚡ Fun fact: Loves playing soccer and  Tennis
 - Currently Learning : Next JS, Go, Scala, and Kotlin
 
- ### GitHub Stats 
+ ### GitHub Stats
 <p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkunwarc&layout=donut"
-    alt="Top Langs"/>
-</p>
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc">
+    <img
+      align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc" />
+  </a>
 </p>
 <p>
   <img
@@ -24,7 +20,6 @@
     src="https://github-readme-stats.vercel.app/api?username=sagarkunwarc&show_icons=true"
     alt="GitHub Stats"/>
 </p>
-  
 <h1>🚀 Tools I Have Used and Learned:</h1>
 <h2> 👨‍💻 Languages: </h2>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
