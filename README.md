@@ -18,7 +18,6 @@
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc"
-    alt="GitHub Contributions"
   />
 </p>
 <p>
