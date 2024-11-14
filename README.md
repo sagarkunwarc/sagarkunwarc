@@ -10,11 +10,6 @@ A Software Engineer
 
  ### GitHub Stats:
 <p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc"/>
-</p>
-<p>
  <img align="center" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkunwarc"/>
 </p>
