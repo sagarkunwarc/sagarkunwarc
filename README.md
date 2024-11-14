@@ -15,6 +15,11 @@ A Software Engineer
     src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc" />
 </p>
 <p>
+ <img align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc&theme=onedark"
+       alt="GitHub Contributions" width="40%" />
+</p>
+<p>
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=sagarkunwarc&show_icons=true"
