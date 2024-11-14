@@ -1,4 +1,4 @@
-## Hi there 👋 I am Sagar Kunwar a software developer.
+## Hi there 👋 I am Sagar Kunwar a Software Engineer.
 
 ![](https://komarev.com/ghpvc/?username=sagarkunwarc&style=for-the-badge&color=green)
 
