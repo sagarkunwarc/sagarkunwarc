@@ -8,11 +8,9 @@
 
  ### GitHub Stats
 <p>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc">
-    <img
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc" />
-  </a>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc" />
 </p>
 <p>
   <img
