@@ -12,12 +12,11 @@ A Software Engineer
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc" />
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc"/>
 </p>
 <p>
  <img align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc&theme=onedark"
-       alt="GitHub Contributions" width="40%" />
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc"/>
 </p>
 <p>
   <img
