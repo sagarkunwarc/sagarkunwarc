@@ -8,7 +8,7 @@ A Software Engineer
 - ⚡ Fun fact: Loves playing soccer and  Tennis
 - Currently Learning : Next JS, Go, Scala, and Kotlin
 
- ### GitHub Stats
+ ### GitHub Stats:
 <p>
   <img
     align="center"
