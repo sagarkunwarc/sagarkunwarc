@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **kunwar.sagar@outlook.com**
 
-
 <h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/sagarkunwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarkunwar" height="30" width="40" /></a>
@@ -44,29 +43,29 @@
 <a href="#"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000.svg?logo=red-hat-open-shift&logoColor=white"></a>
 <a href="#"><img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkunwarc&&column=3&margin-w=15&margin-h=15" alt="sagarkunwarc" /></a> </p>
+<h2>Git Trophy</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkunwarc&column=-1" alt="sagarkunwarc" /></a> </p>
 
-<h2>GitHub Stats:</h2>
+<h2>GitHub Stats</h2>
 
 <p>
   <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkunwarc&layout=donut"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkunwarc"
     alt="Top Langs"
   />
 </p>
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc"
-    alt="GitHub Contributions"
+    src="https://github-readme-stats.vercel.app/api?username=sagarkunwarc"
+    alt="GitHub Stats"
   />
 </p>
 <p>
   <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=sagarkunwarc&show_icons=true"
-    alt="GitHub Stats"
+    align="right"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc"
+    alt="GitHub Contributions"
   />
 </p>
-a
