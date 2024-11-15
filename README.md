@@ -43,7 +43,7 @@
 <a href="#"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000.svg?logo=red-hat-open-shift&logoColor=white"></a>
 <a href="#"><img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
 
-<h2>Git Trophy</h2>
+<h2>🏆 Git Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkunwarc&column=-1" alt="sagarkunwarc" /></a> </p>
 
 <h2>GitHub Stats</h2>
