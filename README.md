@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Kunwar</h1>
 <h3 align="center">A passionate software engineer from USA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkunwarc&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkunwarc" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagarkunwarc&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkunwarc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkunwarc" alt="sagarkunwarc" /></a> </p>
 
