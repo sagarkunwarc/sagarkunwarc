@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sagar Kunwar</h1>
+<h1 align="left">Hi 👋, I'm Sagar Kunwar</h1>
 
-<h3 align="center">A passionate software engineer from USA</h3>
+<h3 align="left">A passionate software engineer from USA</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagarkunwarc&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkunwarc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkunwarc&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkunwarc" /> </p>
 
 - 🌱 I’m currently learning **React, Next JS, Go**
 
