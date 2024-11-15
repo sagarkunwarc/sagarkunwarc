@@ -4,16 +4,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sagarkunwarc&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkunwarc" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkunwarc&&column=3&margin-w=15&margin-h=15" alt="sagarkunwarc" /></a> </p>
-
 - 🌱 I’m currently learning **React, Next JS, Go**
 
 - 👨‍💻 All of my projects are available at [https://sagarkunwar.vercel.app/](https://sagarkunwar.vercel.app/)
 
 - 📫 How to reach me **kunwar.sagar@outlook.com**
 
-<!-- ## 🤝 Let's Connect:
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sagarkunwar) -->
 
 <h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
@@ -47,6 +43,8 @@
 <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
 <a href="#"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000.svg?logo=red-hat-open-shift&logoColor=white"></a>
 <a href="#"><img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarkunwarc&&column=3&margin-w=15&margin-h=15" alt="sagarkunwarc" /></a> </p>
 
 <h2>GitHub Stats:</h2>
 
