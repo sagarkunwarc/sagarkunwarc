@@ -56,11 +56,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarkunwarc&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<!-- <p>
+<p>
   <img
     align="right"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkunwarc"
     alt="GitHub Contributions"/>
-</p> -->
+</p> 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sagarkunwar)](https://github.com/sagarkunwarc/github-readme-stats)
