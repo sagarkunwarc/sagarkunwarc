@@ -2,6 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkunwarc&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkunwarc" /> </p>
 
+
+<div>
+    <img src="./assets/about_sagarkunwar.gif" alt="About Me Terminal GIF"/>
+</div>
+
 - 🌱 I’m currently learning **React, Next JS, Go**
 
 - 👨‍💻 All of my projects are available at [https://sagarkunwar.vercel.app/](https://sagarkunwar.vercel.app/)
