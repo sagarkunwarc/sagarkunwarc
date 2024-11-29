@@ -1,5 +1,7 @@
-<h1 align="left">Hi 👋, I'm Sagar Kunwar</h1>
-
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=007ACC&width=435&lines=Hello%2C+there+I'm+Sagar+Kunwar;Software+Engineer" alt="SDE"/>
+</a>
+<!-- <h1 align="left">Hi 👋, I'm Sagar Kunwar</h1> -->
 <h3 align="left">A passionate software engineer from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkunwarc&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkunwarc" /> </p>
