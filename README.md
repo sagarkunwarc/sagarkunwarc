@@ -132,6 +132,3 @@ I’m a full-stack developer primarily working with Java, Spring Boot, Spring Da
 
 <div align="left"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
