@@ -19,7 +19,8 @@
 
 ### Glad to see you here!
 
-I’m a full-stack developer primarily working with Java, Spring Boot, Spring Data JPA, Hibernate, with SQL and NOSQL databases and different Cloud Technologies.
+I’m a full-stack engineer primarily working with Java, Spring Boot, Spring Data JPA, Hibernate, with SQL and NOSQL databases and different Cloud Technologies.
+I have a certifications from Google Cloud - Assocaite Cloud Engineer.
 
 
 ## Rapidfire
