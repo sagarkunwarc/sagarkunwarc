@@ -1,7 +1,4 @@
 ## Hey 👋, I'm Sagar Kunwar!
-<a href="https://bento.me/sagarkunwar" target="_blank">
-<img src=https://img.shields.io/badge/bento-%23FF69B4.svg?&style=for-the-badge&logo=bento&logoColor=white alt=bento style="margin-bottom: 5px;" />
-</a>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=sagarkunwarc&&style=flat-square)
 
